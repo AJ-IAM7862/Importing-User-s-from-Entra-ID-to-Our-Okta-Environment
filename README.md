@@ -8,16 +8,14 @@ environment.<br />
 - Windows 11
 <h2>Users Imported</h2>
 <p>
-<img width="1222" height="365" alt="image"
-src="https://github.com/user-attachments/assets/d8f41fdf-aad2-4363-b11c-070d646e449f" />
+<img width="945" height="438" alt="Import Users Okta 1" src="https://github.com/user-attachments/assets/3fa076d3-7733-492e-9eb3-57a4cf80bb64" />
 </p>
 <p>
-Imported users Chris Walker, Emma Johnson, Jordan Lee via a CSV file from Azure.
+Imported users via a CSV file from Azure.
 </p>
 <br />
 <p>
-<img width="1001" height="227" alt="image"
-src="https://github.com/user-attachments/assets/fd63266c-9531-42ae-ba9a-0a55031e9e38" />
+<img width="948" height="537" alt="Import Users Okta 2" src="https://github.com/user-attachments/assets/73f156ad-b3a3-4a2f-8e4e-e5d4b0ff7aec" />
 </p>
 <p>
 Imported from Azure to Okta Platform.
